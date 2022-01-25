@@ -1,2 +1,2 @@
 # CRUD-React
-Simulación de un crudo con React
+Simulación de un crud con React
